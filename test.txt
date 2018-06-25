@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B277-1178
+
+ Directory of C:\Users\Abhishek\Desktop\newlor
+
+06/25/2018  11:02 AM    <DIR>          .
+06/25/2018  11:02 AM    <DIR>          ..
+01/17/2015  11:25 AM             2,821 Assistant prof.docx
+01/17/2015  11:09 AM             2,896 Associate prof.docx
+06/25/2018  11:02 AM                 0 test.txt
+               3 File(s)          5,717 bytes
+               2 Dir(s)  137,573,048,320 bytes free
