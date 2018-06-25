@@ -10,3 +10,4 @@
 06/25/2018  11:02 AM                 0 test.txt
                3 File(s)          5,717 bytes
                2 Dir(s)  137,573,048,320 bytes free
+okay
